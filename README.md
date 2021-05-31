@@ -42,4 +42,11 @@ Shadowsocks's Traffic Identification</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Shadowsocks-Papers/blob/master/s(20).pdf" style="text-decoration:none;">Multipath TCP with real Smartphone applications</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Shadowsocks-Papers/blob/master/s(21).pdf" style="text-decoration:none;">The Random Forest based Detection of Shadowsock's Traffic</a></li>
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Shadowsocks-Papers/blob/master/s(22).pdf" style="text-decoration:none;">The Great Firewall of China</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Shadowsocks-Papers/blob/master/s(23).pdf" style="text-decoration:none;">Conquering the Extensional Scalability Problem for Value-Flow Analysis Frameworks</a></li>
+  
+  
+  
 </ul>
